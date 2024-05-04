@@ -1,0 +1,34 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 1px);
+  width: calc(100% + 1px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 1px;
+}
+.text__nvdWr {
+  text-align: left;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: #333333;
+}
+.text__tSuw {
+  font-size: 24px;
+  font-weight: 600;
+}
+.text___8XsMd {
+  text-align: left;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: #333333;
+}

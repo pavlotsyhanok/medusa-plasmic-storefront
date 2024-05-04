@@ -1,0 +1,35 @@
+{
+  "name": "style-in-form",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@medusajs/icons": "^1.2.0",
+    "@medusajs/medusa": "^1.20.2",
+    "@medusajs/medusa-js": "^6.1.7",
+    "@medusajs/product": "^0.3.9",
+    "@plasmicapp/react-web": "^0.2.324",
+    "@plasmicpkgs/antd5": "^0.0.220",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.210",
+    "cookies-next": "^4.1.1",
+    "debounce": "^2.0.0",
+    "lodash": "^4.17.21",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,11 @@
+.root {
+  display: block;
+  width: 100%;
+  height: 1px;
+  position: relative;
+  background: #e5e5ea;
+  min-width: 0;
+}
+.rootdark {
+  background: var(--token-SEMlxGYgBB1z);
+}

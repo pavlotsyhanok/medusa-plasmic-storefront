@@ -8,6 +8,12 @@ This repository hosts a NextJS storefront designed for seamless integration with
 
 🚧 **Warning:** This storefront is in its very early stages of development. Expect inconsistencies in the code and potential bugs. Currently, this project utilizes NextJS 13 App Router. Support for NextJS 14 App Router in Plasmic is in early beta. We plan to upgrade to the NextJS 14 App Router once it's generally available.
 
+## 📼 Setup Tutorial (YouTube)
+
+[![Youtube Tutorial](https://img.youtube.com/vi/XlRTJ9UEZQY/0.jpg)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
+
+**Click on the image above to watch tutorial 👆**
+
 ## Highlights
 
 - **Customizable Storefront:** Utilize Plasmic's visual design capabilities to tailor your storefront to your brand's needs without deep coding.

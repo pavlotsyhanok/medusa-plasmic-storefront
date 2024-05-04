@@ -2,6 +2,8 @@
 # Plasmic Storefront for Medusa JS
 This repository hosts a NextJS storefront designed for seamless integration with Medusa, an open-source headless e-commerce engine. It leverages Plasmic, an open-source visual builder studio for React, allowing for easy visual edits and customization of the storefront.
 
+**Plasmic Studio Project:** https://studio.plasmic.app/projects/kZYdLdyCWduEwLJ51vftX9 (runs only when with localhost, read instructions!)
+
 ## ⚠️ Project Status
 
 🚧 **Warning:** This storefront is in its very early stages of development. Expect inconsistencies in the code and potential bugs. Currently, this project utilizes NextJS 13 App Router. Support for NextJS 14 App Router in Plasmic is in early beta. We plan to upgrade to the NextJS 14 App Router once it's generally available.
@@ -74,7 +76,7 @@ Start the development server. This will host your project locally on `http://loc
 ```
 
 **Open the Project in Plasmic Studio**:
-Once your local server is running, you can begin working with the storefront in Plasmic Studio. Open Plasmic Studio and duplicate the project from the following link: [MedusaJS - Plasmic Demo Store](#). After duplicating the store, you can open your copy and start customizing the storefront.
+Once your local server is running, you can begin working with the storefront in Plasmic Studio. Open Plasmic Studio and duplicate the project from the following link: [MedusaJS - Plasmic Demo Store](https://studio.plasmic.app/projects/kZYdLdyCWduEwLJ51vftX9). After duplicating the store, you can open your copy and start customizing the storefront.
 
 These steps will set up the Plasmic Storefront on your local machine and prepare you for visual editing and further development in Plasmic Studio.
 

@@ -2,7 +2,7 @@
 # Plasmic Storefront for Medusa JS
 This repository hosts a NextJS storefront designed for seamless integration with Medusa, an open-source headless e-commerce engine. It leverages Plasmic, an open-source visual builder studio for React, allowing for easy visual edits and customization of the storefront.
 
-**Plasmic Studio Project:** https://studio.plasmic.app/projects/kZYdLdyCWduEwLJ51vftX9 (runs only when with localhost, read instructions!)
+**Plasmic Studio Project:** https://studio.plasmic.app/projects/kZYdLdyCWduEwLJ51vftX9 (runs only with `http://localhost:3000`, read instructions!)
 
 ## ⚠️ Project Status
 
